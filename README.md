@@ -294,3 +294,23 @@ Switch between accounts in MetaMask to simulate different participants:
 | Customer verification | Product ID input | QR code scan |
 | Gas fees | Free (test ETH) | Real ETH |
 | Node count | 1 (your laptop) | Thousands of nodes globally |
+
+## 📸 Screenshots
+
+### MetaMask Account Setup
+![MetaMask Accounts](screenshots/01_metamask_accounts.png)
+
+### Smart Contract Deployment
+![Remix Deploy](screenshots/02_remix_deploy.png)
+
+### Dashboard — Governance Council
+![Dashboard](screenshots/04_dashboard_council.png)
+
+### Governance — Proposals Executed
+![Proposals](screenshots/07_past_proposals.png)
+
+### Manufacturer — Register Product
+![Manufacturer](screenshots/08_manufacturer_add.png)
+
+### Track Product — Blockchain History
+![Track Product](screenshots/11_track_product.png)
